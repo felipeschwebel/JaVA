@@ -1,0 +1,15 @@
+int : Valor Default = 0, Faixa de Valores = -231 até 231-1, Tamanho em Bytes = 32-Bit
+
+byte: Valor Default = 0, Faixa de Valores = -128 até 127, Tamanho em Bytes = 8-Bit
+
+short: Valor Default = 0, Faixa de Valores = -32,768 até 32,767, Tamanho em Bytes = 16-Bit
+
+long: Valor Default = 0L, Faixa de Valores = -263 até 263-1, Tamanho em Bytes = 64-Bit
+
+char: Valor Default ='\u0000' ou 0, Faixa de Valores = '\u0000' até '\uffff' (or 65,535 inclusive), Tamanho em Bytes = 16-Bit
+
+boolean: Valor Default = false, Faixa de Valores = false ou true, Tamanho em Bytes = 1-Bit
+
+float: Valor Default = 0.0f, Faixa de Valores = -126 até +127, Tamanho em Bytes = 32-Bit IEEE 754 floating point
+
+double: Valor Default = 0.0d, Faixa de Valores = -1022 até +1023, Tamanho em Bytes = 64-bit IEEE 754 floating point
