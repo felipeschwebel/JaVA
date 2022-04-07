@@ -24,7 +24,7 @@ public class Adivinha {
 
 
 
-    num = (int) (Math.random() * 100);
+    num = (int) (Math.random() * 101);
 
 
 
